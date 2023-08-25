@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## About me
-24, Computer Engineer, Computer Science and Engineering student @ Polimi <br/>
+25, Computer Engineer, Computer Science and Engineering student @ Polimi <br/>
 
 ## Languages
 ![Swift](https://img.shields.io/badge/Swift-ff7700?style=for-the-badge&logo=swift&logoColor=white)
