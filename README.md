@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## About me
-25, Computer Engineer, Computer Science and Engineering student @ Polimi <br/>
+Graduated Computer Engineer, PhD student @ [NESLab](https://neslab.it), [Politecnico di Milano](https://polimi.it) <br/>
 
 ## Languages
 ![Swift](https://img.shields.io/badge/Swift-ff7700?style=for-the-badge&logo=swift&logoColor=white)
